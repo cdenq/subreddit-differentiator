@@ -17,8 +17,6 @@
     <a href="https://github.com/cdenq/">GitHub Home</a>
     ·
     <a href="https://github.com/cdenq/subreddit-differentiator/issues">Report Bug </a>
-    ·
-    <a href="https://github.com/cdenq/my-directory">All Projects </a>
   </p>
 </div>
 
